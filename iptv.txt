@@ -1,3 +1,4 @@
+央视卫视,#genre#
 CCTV-1,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/1.m3u8
 CCTV-1,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8
 CCTV-1,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8
@@ -17,7 +18,6 @@ CCTV-7,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226467/1.m3u8
 CCTV-8,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226485/1.m3u8
 CCTV-9,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226236/1.m3u8
 CCTV-9,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226465/1.m3u8
-CCTV-10,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226227/1.m3u8
 CCTV-10,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226464/1.m3u8
 CCTV-11,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226334/1.m3u8
 CCTV-11,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226463/1.m3u8
