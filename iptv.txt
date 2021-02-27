@@ -270,8 +270,7 @@ CCTV-17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m
 重庆卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225692/index.m3u8
 黑龙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225586/index.m3u8?fmt=ts2hls
 黑龙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225690/index.m3u8
-CCTV13,http://ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8
-CCTV13,http://117.136.156.42/PLTV/88888888/224/3221225510/index.m3u8
+CCTV-13,http://117.136.156.42/PLTV/88888888/224/3221225510/index.m3u8
 
 
 
@@ -295,7 +294,7 @@ Dox4K,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226019/1/index.m3u8
 黑莓动画,http://itv.ahau.edu.cn/PLTV/88888888/224/3221226654/index.m3u8
 动漫秀场,http://itv.ahau.edu.cn/hls/hls184a636.m3u8
 动漫电影,http://itv.ahau.edu.cn/PLTV/88888888/224/3221226178/1.m3u8
-金鹰卡通http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
+金鹰卡通,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
 
 求索频道,#genre#
 求索记录,http://itv.ahau.edu.cn/PLTV/88888888/224/3221226610/1.m3u8
