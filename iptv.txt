@@ -275,16 +275,9 @@ CCTV13,http://117.136.156.42/PLTV/88888888/224/3221225510/index.m3u8
 
 
 
-4K频道,#genre#
-CCTV4K,http://itv.ahau.edu.cn/PLTV/88888888/224/3221226758/1.m3u8
-纯享4K,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=2
-纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-百视通4K,http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
-纯享4K,http://183.207.249.205/ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8
-SiTV欢笑剧场,http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+
 
 动画频道,#genre#
-爱映画,http://itv.ahau.edu.cn/hls/hls78a46.m3u8
 晴天动画馆,http://itv.ahau.edu.cn/hls/hls78a47.m3u8
 黑莓动画,http://itv.ahau.edu.cn/PLTV/88888888/224/3221226654/index.m3u8
 动漫秀场,http://itv.ahau.edu.cn/hls/hls184a636.m3u8
