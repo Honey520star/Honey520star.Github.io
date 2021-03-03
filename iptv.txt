@@ -274,15 +274,13 @@ CCTV13,http://117.136.156.42/PLTV/88888888/224/3221225510/index.m3u8
 
 
 
-
-
-
 动画频道,#genre#
+CCTV14,http://itv.ahau.edu.cn/hls/cctv14hd.m3u8
 晴天动画馆,http://itv.ahau.edu.cn/hls/hls78a47.m3u8
-黑莓动画,http://itv.ahau.edu.cn/PLTV/88888888/224/3221226654/index.m3u8
 动漫秀场,http://itv.ahau.edu.cn/hls/hls184a636.m3u8
-动漫电影,http://itv.ahau.edu.cn/PLTV/88888888/224/3221226178/1.m3u8
 金鹰卡通,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
+NNM卡通剧场,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226717/index.m3u8
+黑莓动画,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=2
 
 求索频道,#genre#
 求索记录,http://itv.ahau.edu.cn/PLTV/88888888/224/3221226610/1.m3u8
@@ -294,15 +292,40 @@ CHC高清电影,http://ivi6.bupt.edu.cn/hls/chchd.m3u8
 CHC高清电影,http://itv.ahau.edu.cn/hls/hls260.m3u8
 CHC动作电影,http://itv.ahau.edu.cn/hls/hls261.m3u8
 CHC家庭影院,http://itv.ahau.edu.cn/hls/hls259.m3u8
-黑莓电影,http://itv.ahau.edu.cn/PLTV/88888888/224/3221226755/index.m3u8
+黑莓电影,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=2
 峨眉电影,http://itv.ahau.edu.cn/hdlive/emei/1.m3u8
-都市剧场,http://itv.ahau.edu.cn/PLTV/88888888/224/3221226825/1.m3u8
 东方影视,http://itv.ahau.edu.cn/PLTV/88888888/224/3221226189/index.m3u8
-时光剧场,http://itv.ahau.edu.cn/hls/hls78a48.m3u8
-爱院线,http://itv.ahau.edu.cn/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3355320210224055506343803
+NNM大众影视,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226752/index.m3u8
+NNM家庭剧场,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226740/index.m3u8
+NNM家庭影院,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226723/index.m3u8
+NNM家庭剧场,http://itv.ahau.edu.cn/hls/hls75a28.m3u8
+NNM家庭影院,http://itv.ahau.edu.cn/hls/hls75a29.m3u8
 
-
-
+数字频道,#genre#
+世界地理,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
+世界地理,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
+兵器科技,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
+兵器科技,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
+央视台球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
+央视台球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226156/1/index.m3u8?fmt=ts2hls
+央视文化精品,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
+女性时尚,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
+女性时尚,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
+怀旧剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
+怀旧剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
+文化精品,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
+电视指南,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
+电视指南,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
+第一剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
+第一剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
+风云剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
+风云剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
+风云足球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
+风云足球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
+风云音乐,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
+风云音乐,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
+高尔夫网球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
+高尔夫网球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
 
 NewTv,#genre#
 NewTV中国功夫,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226321/1.m3u8
