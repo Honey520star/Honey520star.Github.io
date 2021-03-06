@@ -279,13 +279,8 @@ CCTV14,http://itv.ahau.edu.cn/hls/cctv14hd.m3u8
 晴天动画馆,http://itv.ahau.edu.cn/hls/hls78a47.m3u8
 动漫秀场,http://itv.ahau.edu.cn/hls/hls184a636.m3u8
 金鹰卡通,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
-NNM卡通剧场,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226717/index.m3u8
 黑莓动画,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=2
 
-求索频道,#genre#
-求索记录,http://itv.ahau.edu.cn/PLTV/88888888/224/3221226610/1.m3u8
-探索记录,http://itv.ahau.edu.cn/PLTV/88888888/224/3221226179/1.m3u8
-求索科学,http://itv.ahau.edu.cn/PLTV/88888888/224/3221226608/1.m3u8
 
 影视综艺,#genre#
 CHC高清电影,http://ivi6.bupt.edu.cn/hls/chchd.m3u8
@@ -293,8 +288,6 @@ CHC高清电影,http://itv.ahau.edu.cn/hls/hls260.m3u8
 CHC动作电影,http://itv.ahau.edu.cn/hls/hls261.m3u8
 CHC家庭影院,http://itv.ahau.edu.cn/hls/hls259.m3u8
 黑莓电影,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=2
-峨眉电影,http://itv.ahau.edu.cn/hdlive/emei/1.m3u8
-东方影视,http://itv.ahau.edu.cn/PLTV/88888888/224/3221226189/index.m3u8
 NNM大众影视,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226752/index.m3u8
 NNM家庭剧场,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226740/index.m3u8
 NNM家庭影院,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226723/index.m3u8
