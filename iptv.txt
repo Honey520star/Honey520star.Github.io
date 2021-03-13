@@ -275,7 +275,7 @@ CCTV13,http://117.136.156.42/PLTV/88888888/224/3221225510/index.m3u8
 CCTV1,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R6045DFE7U30963010K77A47B17IE1B8C9DAPBM3233C4BV1044EZ33519WEB0A97A2F72&playtoken=ABCDEFGHI&programid=4200000133.m3u8
 CCTV2,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R6045DFE7U30963010K77A47B17IE1B8C9DAPBM3233C4BV1044EZ33519WEB0A97A2F72&playtoken=ABCDEFGHI&programid=4200000217.m3u8
 CCTV3,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R6045DFE7U30963010K77A47B17IE1B8C9DAPBM3233C4BV1044EZ33519WEB0A97A2F72&playtoken=ABCDEFGHI&programid=4200000134.m3u8
-CCTV4 5M1080,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R6045DFE7U30963010K77A47B17IE1B8C9DAPBM3233C4BV1044EZ33519WEB0A97A2F72&playtoken=ABCDEFGHI&programid=4200000315.m3u8
+CCTV4,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R6045DFE7U30963010K77A47B17IE1B8C9DAPBM3233C4BV1044EZ33519WEB0A97A2F72&playtoken=ABCDEFGHI&programid=4200000315.m3u8
 CCTV5,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R6045DFE7U30963010K77A47B17IE1B8C9DAPBM3233C4BV1044EZ33519WEB0A97A2F72&playtoken=ABCDEFGHI&programid=4200000135.m3u8
 CCTV5+,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R6045DFE7U30963010K77A47B17IE1B8C9DAPBM3233C4BV1044EZ33519WEB0A97A2F72&playtoken=ABCDEFGHI&programid=4200000138.m3u8
 CCTV6,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R6045DFE7U30963010K77A47B17IE1B8C9DAPBM3233C4BV1044EZ33519WEB0A97A2F72&playtoken=ABCDEFGHI&programid=4200000136.m3u8
@@ -325,7 +325,6 @@ CCTV12,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&a
 CCTV14,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R6045DFE7U30963010K77A47B17IE1B8C9DAPBM3233C4BV1044EZ33519WEB0A97A2F72&playtoken=ABCDEFGHI&programid=4200000248.m3u8
 CCTV15,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R6045DFE7U30963010K77A47B17IE1B8C9DAPBM3233C4BV1044EZ33519WEB0A97A2F72&playtoken=ABCDEFGHI&programid=4200000325.m3u8
 CCTV17,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R6045DFE7U30963010K77A47B17IE1B8C9DAPBM3233C4BV1044EZ33519WEB0A97A2F72&playtoken=ABCDEFGHI&programid=4200000332.m3u8
-中国教育1,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R6045DFE7U30963010K77A47B17IE1B8C9DAPBM3233C4BV1044EZ33519WEB0A97A2F72&playtoken=ABCDEFGHI&programid=4200000256.m3u8
 东南卫视,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R6045DFE7U30963010K77A47B17IE1B8C9DAPBM3233C4BV1044EZ33519WEB0A97A2F72&playtoken=ABCDEFGHI&programid=4200000252.m3u8
 东方卫视,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R6045DFE7U30963010K77A47B17IE1B8C9DAPBM3233C4BV1044EZ33519WEB0A97A2F72&playtoken=ABCDEFGHI&programid=4200000141.m3u8
 北京卫视,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R6045DFE7U30963010K77A47B17IE1B8C9DAPBM3233C4BV1044EZ33519WEB0A97A2F72&playtoken=ABCDEFGHI&programid=4200000147.m3u8
