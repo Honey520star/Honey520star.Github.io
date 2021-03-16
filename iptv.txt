@@ -358,7 +358,6 @@ CCTV14,http://itv.ahau.edu.cn/hls/cctv14hd.m3u8
 
 
 影视综艺,#genre#
-女团轮播,http://loopplay.cibn.cc/vchannel/208.m3u8?k=d41a3b5b8a8c48a472990e06594b1dd7&channel=CIBN&t=1615419531&ttl=86400&type=3&videotype=loop
 CHC高清电影,http://ivi6.bupt.edu.cn/hls/chchd.m3u8
 CHC高清电影,http://itv.ahau.edu.cn/hls/hls260.m3u8
 CHC动作电影,http://itv.ahau.edu.cn/hls/hls261.m3u8
@@ -400,7 +399,7 @@ Dox雅趣,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226042/1/index.
 女性时尚,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
 怀旧剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
 怀旧剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
-文化精品,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
+央视文化精品,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
 电视指南,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
 电视指南,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
 第一剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
