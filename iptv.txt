@@ -61,7 +61,11 @@ CCTV17,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226459/1.m3u8
 四川卫视,http://itv.ahau.edu.cn/hls/schd.m3u8
 重庆卫视,http://itv.ahau.edu.cn/hls/cqhd.m3u8
 广西卫视,http://itv.ahau.edu.cn/hls/gxhd.m3u8
+吉林卫视,http://ivi6.bupt.edu.cn/hls/jlhd.m3u8
 吉林卫视,http://stream4.jlntv.cn/test2/sd/live.m3u8
+甘肃卫视,http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
+甘肃卫视,http://39.134.39.39/270000001322/69900158041111100000002160/index.m3u8
+云南卫视,http://hwzbout.yunshicloud.com/8xughf/e0bx15.m3u8
 CCTV1,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=2
 CCTV1,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=2
 CCTV2,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=2
@@ -275,9 +279,13 @@ CCTV13,http://117.136.156.42/PLTV/88888888/224/3221225510/index.m3u8
 
 
 动画频道,#genre#
+CCTV14,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226461/1.m3u8
 CCTV14,http://itv.ahau.edu.cn/hls/cctv14hd.m3u8
+CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 晴天动画馆,http://itv.ahau.edu.cn/hls/hls78a47.m3u8
 动漫秀场,http://itv.ahau.edu.cn/hls/hls184a636.m3u8
+卡酷少儿,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
+卡酷少儿,rtmp://ivi6.bupt.edu.cn/livetv/btv10hd
 金鹰卡通,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
 哈哈炫动,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226139/1.m3u8
 哈哈炫动,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226139/2.m3u8
