@@ -15,7 +15,6 @@ CCTV5+,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226349/1.m3u8
 CCTV5+,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226458/1.m3u8
 CCTV6,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226468/1.m3u8
 CCTV7,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226467/1.m3u8
-CCTV8,http://183.207.249.103/ott.js.chinamobile.com/PLTV/3/224/3221227473/index.m3u8
 CCTV8,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226485/1.m3u8
 CCTV9,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226734/index.m3u8
 CCTV9,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226465/1.m3u8
@@ -63,9 +62,6 @@ CCTV17,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226459/1.m3u8
 广西卫视,http://itv.ahau.edu.cn/hls/gxhd.m3u8
 吉林卫视,http://ivi6.bupt.edu.cn/hls/jlhd.m3u8
 吉林卫视,http://stream4.jlntv.cn/test2/sd/live.m3u8
-甘肃卫视,http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
-甘肃卫视,http://39.134.39.39/270000001322/69900158041111100000002160/index.m3u8
-云南卫视,http://hwzbout.yunshicloud.com/8xughf/e0bx15.m3u8
 CCTV1,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=2
 CCTV1,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=2
 CCTV2,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=2
