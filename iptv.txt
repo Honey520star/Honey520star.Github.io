@@ -200,7 +200,13 @@ NNM大众影视,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226752/
 NNM家庭剧场,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226740/index.m3u8
 NNM家庭影院,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226723/index.m3u8
 
-
+哔哩哔哩_48,#genre#
+SNH48,http://epg.112114.xyz/bili/48
+GNZ48,http://epg.112114.xyz/bili/391199
+易嘉爱,http://epg.112114.xyz/bili/2058485
+王诗蒙,http://epg.112114.xyz/bili/1342442
+李梓,http://epg.112114.xyz/bili/57970
+陈俊宏,http://epg.112114.xyz/bili/938113
 
 NewTv,#genre#
 中国功夫,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226321/1.m3u8
