@@ -171,6 +171,7 @@ SNH48,http://epg.112114.xyz/bili/48
 GNZ48,http://epg.112114.xyz/bili/391199
 易嘉爱,http://epg.112114.xyz/bili/2058485
 王诗蒙,http://epg.112114.xyz/bili/1342442
+卢天惠,http://epg.112114.xyz/bili/22600345
 李梓,http://epg.112114.xyz/bili/57970
 陈俊宏,http://epg.112114.xyz/bili/938113
 
