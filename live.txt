@@ -42,6 +42,7 @@ CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 山东卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226501/1.m3u8
 广东卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226686/index.m3u8
 广东卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226508/1.m3u8
+广西卫视,http://hdtv.haust.edu.cn/hls/gxhd.m3u8
 江苏卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226672/index.m3u8
 江苏卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226366/1.m3u8
 江苏卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226506/1.m3u8
@@ -53,11 +54,16 @@ CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 深圳卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226495/1.m3u8
 湖北卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226503/1.m3u8
 贵州卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226497/1.m3u8
+贵州卫视,http://hdtv.haust.edu.cn/hls/gzhd.m3u8
 辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226689/index.m3u8
 辽宁卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226500/1.m3u8
+吉林卫视,http://hdtv.haust.edu.cn/hls/jlhd.m3u8
 黑龙江卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226498/1.m3u8
 四川卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226728/index.m3u8
+陕西卫视,http://livepull.sxiptv.cn/live/shanxiweishihd.m3u8
 甘肃卫视,http://39.134.39.39/270000001322/69900158041111100000002160/index.m3u8
+宁夏卫视,http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?IASHttpSessionId=OTT2464120210809053746000193
+云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8
 新疆卫视,http://111.0.27.21/livehyw5.chinamcache.com/hyw/zb01.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226024/index.m3u8
@@ -151,14 +157,12 @@ CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3
 CCTV14,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226461/1.m3u8
 CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 卡酷少儿,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
-卡酷少儿,rtmp://ivi6.bupt.edu.cn/livetv/btv10hd
 金鹰卡通,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
 黑莓动画,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=2
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225744/index.m3u8
 
 影视综艺,#genre#
-CHC高清电影,http://ivi6.bupt.edu.cn/hls/chchd.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
@@ -177,3 +181,5 @@ BEJ48,http://epg.112114.xyz/bili/383045
 李梓,http://epg.112114.xyz/bili/57970
 陈俊宏,http://epg.112114.xyz/bili/938113
 公演轮播,http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432328
+公演轮播,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
+CCTV6经典轮播,http://epg.112114.xyz/bili/22728767
