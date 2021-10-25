@@ -42,7 +42,6 @@ CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 山东卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226501/1.m3u8
 广东卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226686/index.m3u8
 广东卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226508/1.m3u8
-广西卫视,http://hdtv.haust.edu.cn/hls/gxhd.m3u8
 江苏卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226672/index.m3u8
 江苏卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226366/1.m3u8
 江苏卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226506/1.m3u8
@@ -54,10 +53,8 @@ CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 深圳卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226495/1.m3u8
 湖北卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226503/1.m3u8
 贵州卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226497/1.m3u8
-贵州卫视,http://hdtv.haust.edu.cn/hls/gzhd.m3u8
 辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226689/index.m3u8
 辽宁卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226500/1.m3u8
-吉林卫视,http://hdtv.haust.edu.cn/hls/jlhd.m3u8
 黑龙江卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226498/1.m3u8
 四川卫视,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226728/index.m3u8
 陕西卫视,http://livepull.sxiptv.cn/live/shanxiweishihd.m3u8
