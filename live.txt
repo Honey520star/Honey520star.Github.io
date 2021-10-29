@@ -25,6 +25,7 @@ CCTV12,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226462/1.m3u8
 CCTV13,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
 CCTV14,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226461/1.m3u8
 CCTV15,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8
+CCTV16,http://223.110.241.137:6610/gitv/live1/G_CCTV-16-CQ/G_CCTV-16-CQ
 CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 CCTV16,http://121.18.168.210/livetestcdn.cctv.cn/hls/CCTV16HD/playlist.m3u8
 CCTV17,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226841/index.m3u8
@@ -64,7 +65,7 @@ CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 宁夏卫视,http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?IASHttpSessionId=OTT2464120210809053746000193
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8
 新疆卫视,http://111.0.27.21/livehyw5.chinamcache.com/hyw/zb01.m3u8
-内蒙古卫视,
+内蒙古卫视,http://live9.m2oplus.nmtv.cn/nmgws/hd/live.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226024/index.m3u8
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
