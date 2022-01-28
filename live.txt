@@ -44,9 +44,7 @@ CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 河南卫视,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225709/1/index.m3u8?fmt=ts2hls
 贵州卫视,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225703/1/index.m3u8?fmt=ts2hls
 甘肃卫视,http://39.134.39.39/270000001322/69900158041111100000002160/index.m3u8
-宁夏卫视,http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?IASHttpSessionId=OTT2464120210809053746000193
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8
-新疆卫视,http://111.0.27.21/livehyw5.chinamcache.com/hyw/zb01.m3u8
 内蒙古卫视,http://live9.m2oplus.nmtv.cn/nmgws/hd/live.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226024/index.m3u8
@@ -137,42 +135,66 @@ NNM家庭影院,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226723/
 
 
 哔哩哔哩,#genre#
-SNH48,http://epg.112114.xyz/bili/48
-GNZ48,http://epg.112114.xyz/bili/391199
-BEJ48,http://epg.112114.xyz/bili/383045
-易嘉爱,http://epg.112114.xyz/bili/2058485
-王诗蒙,http://epg.112114.xyz/bili/1342442
-卢天惠,http://epg.112114.xyz/bili/22600345
-陈俊宏,http://epg.112114.xyz/bili/938113
+SNH48,http://103.140.229.13/BOBO/bibi.php?id=48
+GNZ48,http://103.140.229.13/BOBO/bibi.php?id=391199
+BEJ48,http://103.140.229.13/BOBO/bibi.php?id=383045
+易嘉爱,http://103.140.229.13/BOBO/bibi.php?id=2058485
+王诗蒙,http://103.140.229.13/BOBO/bibi.php?id=1342442
+卢天惠,http://103.140.229.13/BOBO/bibi.php?id=22600345
+陈俊宏,http://103.140.229.13/BOBO/bibi.php?id=938113
 公演轮播,http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432328
 公演轮播,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
-CCTV6经典轮播,http://epg.112114.xyz/bili/22728767
-女团10月7,https://ts.48.cn/snh/20211007/gaoqing/bk/648919343238549504.m3u8
-女团10.6,https://ts.48.cn/snh/20211006/gaoqing/bk/648919196559544320.m3u8
-女团10.5,https://ts.48.cn/snh/20211005/gaoqing/bk/648919043777826816.m3u8
-女团10.3,https://ts.48.cn/snh/20211003/gaoqing/bk/648918619037437952.m3u8
-女团10.2,https://ts.48.cn/snh/20211002/gaoqing/bk/648918427886227456.m3u8
-女团10.1,https://ts.48.cn/snh/20211001/gaoqing/bk/648918146645561344.m3u8
-女团9.25,https://ts.48.cn/snh/20210925/gaoqing/bk/646047926713126912.m3u8
-女团1,https://ts.48.cn/bej/20210911/gaoqing/bk/639468765148155904.m3u8
-女团2,https://ts.48.cn/bej/20210703/gaoqing/bk/614054118253465600.m3u8
-女团3,https://ts.48.cn/snh/20210626/gaoqing/bk/614058772907495424.m3u8
-女团4,https://ts.48.cn/snh/20210801/gaoqing/bk/627512422128488448.m3u8
-女团5,https://ts.48.cn/snh/20210917/gaoqing/bk/642040771316092928.m3u8
-女团6,https://ts.48.cn/snh/20210829/gaoqing/bk/636973348787392512.m3u8
-女团7,https://ts.48.cn/snh/20210826/gaoqing/bk/635516952057286656.m3u8
-女团8,https://ts.48.cn/snh/20210801/gaoqing/bk/627512147128946688.m3u8
-女团9,https://ts.48.cn/snh/20210731/gaoqing/bk/625288506467225600.m3u8
-女团10,https://ts.48.cn/snh/20210730/gaoqing/bk/625288157920563200.m3u8
-女团11,https://ts.48.cn/snh/20210717/gaoqing/bk/621367157252231168.m3u8
-女团12,https://ts.48.cn/snh/20210912/gaoqing/bk/642040429866192896.m3u8
-女团13,https://ts.48.cn/snh/20210911/gaoqing/bk/640565016715399168.m3u8
-女团14,https://ts.48.cn/snh/20210918/gaoqing/bk/644242937241997312.m3u8
-女团15,https://ts.48.cn/snh/20210920/gaoqing/bk/644244325208494080.m3u8
-女团16,https://ts.48.cn/snh/20210627/gaoqing/bk/614058945683460096.m3u8
-女团17,https://ts.48.cn/snh/20210711/gaoqing/bk/618870915301445632.m3u8
-女团18,https://ts.48.cn/snh/20201017/gaoqing/bk/522415827029135360.m3u8
-女团19,https://ts.48.cn/snh/20210128/gaoqing/bk/559022081658654720.m3u8
-女团20,https://ts.48.cn/snh/20210625/gaoqing/bk/614055955257954304.m3u8
-女团21,https://ts.48.cn/snh/20201031/gaoqing/bk/528239425371312128.m3u8
-女团22,https://ts.48.cn/gnz/20210903/gaoqing/bk/639134387754831872.m3u8
+CCTV6经典轮播,http://103.140.229.13/BOBO/bibi.php?id=22728767
+豪歌, ts.48.cn/gnz/20211120/gaoqing/bk/666805322167160832.m3u8
+林思意毕业公演, https://ts.48.cn/snh/20211204/gaoqing/bk/672858479259357184.m3u8
+N2八周年, https://ts.48.cn/snh/20211023/gaoqing/bk/655091397990092800.m3u8
+万圣节兼S八周年,    https://ts.48.cn/snh/20211030/gaoqing/bk/660507377180413952.m3u8
+陆婷毕业公演, https://ts.48.cn/snh/20210925/gaoqing/bk/646047780587769856.m3u8
+《Dream High》第八届总决选TOP32&TOP48联合公演,  https://ts.48.cn/snh/20210827/gaoqing/bk/635516779319070720.m3u8
+21年费沁源生日公演,https://ts.48.cn/snh/20210619/gaoqing/bk/612330097111535616.m3u8
+金莹玥MVP生日公演,https://ts.48.cn/snh/20210606/gaoqing/bk/606502355245797376.m3u8
+第三届偶像运动会,https://ts.48.cn/snh/20210502/gaoqing/bk/594196197185228800.m3u8
+愚人节特殊公演,https://ts.48.cn/snh/20210401/gaoqing/bk/583351018085748736.m3u8
+女生节特别公演,https://ts.48.cn/snh/20210307/gaoqing/bk/573171462024531968.m3u8
+NH春节公演,   https://ts.48.cn/snh/20210206/gaoqing/bk/560905518686474240.m3u8
+SX春节公演,  https://ts.48.cn/snh/20210206/gaoqing/bk/560905223311003648.m3u8
+21H跨年公演,  https://ts.48.cn/snh/20210101/gaoqing/bk/548169705775239168.m3u8
+NX圣诞公演,  https://ts.48.cn/snh/20201225/gaoqing/bk/546739416918200320.m3u8
+N队7周年,  https://ts.48.cn/snh/20201129/gaoqing/bk/538070803571085312.m3u8
+H队6周年,  https://ts.48.cn/snh/20201205/gaoqing/bk/540602628516417536.m3u8
+X队5周年,  https://ts.48.cn/snh/20201128/gaoqing/bk/538070535794135040.m3u8
+20年万圣节公演,  https://ts.48.cn/snh/20201031/gaoqing/bk/528239425371312128.m3u8
+On stage 歌唱第二场, https://ts.48.cn/snh/20200719/gaoqing/bk/490175790858440704.m3u8
+on stage歌唱第一场,  https://ts.48.cn/snh/20200712/gaoqing/bk/487336831891607552.m3u8
+花路之约, https://ts.48.cn/snh/20200721/gaoqing/bk/489839908976660480.m3u8
+青葱组决赛, https://ts.48.cn/snh/20200531/gaoqing/bk/472745649639329792.m3u8
+青葱组第三场, https://ts.48.cn/snh/20200517/gaoqing/bk/467643941628219392.m3u8
+绽放组第三场, https://ts.48.cn/snh/20200516/gaoqing/bk/467643770882297856.m3u8
+绽放组第二场, https://ts.48.cn/snh/20200512/gaoqing/bk/465481035079815168.m3u8
+绽放组首场, https://ts.48.cn/snh/20200503/gaoqing/bk/462638770162569216.m3u8
+峡谷争霸赛, https://ts.48.cn/snh/20200425/gaoqing/bk/459006607261241344.m3u8
+On stage 第二场, https://ts.48.cn/snh/20200425/gaoqing/bk/459005918694936576.m3u8
+on stage初心舞台, https://ts.48.cn/snh/20200419/gaoqing/bk/457878766037569536.m3u8
+万丽娜live,  https://ts.48.cn/snh/20200411/gaoqing/bk/455038721521946624.m3u8
+刘力菲live,https://ts.48.cn/snh/20200417/gaoqing/bk/455039615047110656.m3u8
+张语格live, https://ts.48.cn/snh/20200524/gaoqing/bk/470312128563974145.m3u8
+张怡孙歆文live, https://ts.48.cn/snh/20200524/gaoqing/bk/470312446584492032.m3u8
+易嘉爱live, https://ts.48.cn/snh/20200406/gaoqing/bk/452441887670603776.m3u8
+洁茜沁live, https://ts.48.cn/snh/20200308/gaoqing/bk/442807048193511424.m3u8
+张怡李佳恩live, https://ts.48.cn/snh/20200302/gaoqing/bk/436956025063280640.m3u8
+19年万丽娜生日公演, https://ts.48.cn/snh/20191123/gaoqing/bk/403233292420976640.m3u8
+TOP16巡演上海站,https://ts.48.cn/snh/20210228/gaoqing/bk/570642181671161856.m3u8
+星光组的48种可能, https://ts.48.cn/gnz/20211127/gaoqing/bk/670344474749898752.m3u8
+H队5周年,  https://ts.48.cn/snh/20191030/gaoqing/394192744838139904.m3u8
+N队6周年, https://ts.48.cn/snh/20191117/gaoqing/bk/401019442388865024.m3u8
+
+
+
+
+
+
+
+
+
+
+
