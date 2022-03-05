@@ -131,7 +131,7 @@ CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3
 重庆卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225692/index.m3u8
 黑龙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225586/index.m3u8?fmt=ts2hls
 黑龙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225690/index.m3u8
-
+北京卫视,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
 
 
 影视综艺,#genre#
@@ -144,6 +144,7 @@ NNM家庭影院,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226723/
 北京纪实,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226730/index.m3u8
 金鹰纪实,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226714/index.m3u8
 上海纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+卡酷动画,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
 哒啵赛事,http://39.135.129.172/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226903/index.m3u8
 五星体育频道,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226023/index.m3u8
 
