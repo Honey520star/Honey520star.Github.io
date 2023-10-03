@@ -16,6 +16,8 @@ CCTV9,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226734/index.m3u8
 CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV12,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
 CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV16,http://hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227071/index.m3u8
 CCTV16,http://hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227074/index.m3u8
@@ -57,10 +59,14 @@ CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+
 北京纪实,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226730/index.m3u8
 金鹰纪实,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226714/index.m3u8
 上海纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 哒啵赛事,http://hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226903/index.m3u8
+哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 
 哔哩哔哩,#genre#
 SNH48,http://103.140.229.13/BOBO/bibi.php?id=48
